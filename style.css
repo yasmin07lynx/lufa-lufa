@@ -1,0 +1,69 @@
+h3{
+    font-size: 25px;
+    border: 5px solid white;
+    color: yellow
+
+}
+H6{
+    color: black;
+    background-color:rgb(204, 204, 52);
+    font-size: 45px;
+    text-align: center;
+    border: 1cm solid rgb(245, 245, 75);
+}
+
+
+header{
+    font-size: 25px;
+    border: 5px solid white;
+    text-align: center;
+    color: yellow;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(235, 235, 72);
+    color: black;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: yellow;
+   border: 5px solid white; 
+}
+body{ 
+    background-color: black;
+}
+img{
+padding: 5cm;
+}
+a{
+  text-align: center;
+  font-size: 20px;
+  color: silver ;
+}
+
+ul{
+    font-size: 25px;
+    border: 5px solid white;
+    color: yellow;
+
+}
+h5{
+    font-size: 25px;
+    border: 5px solid white;
+    color: yellow;
+    text-align: center;
+
+}
+p{
+  color: yellow;
+
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    color: yellow;
+   border: 5px solid white
+}
+
